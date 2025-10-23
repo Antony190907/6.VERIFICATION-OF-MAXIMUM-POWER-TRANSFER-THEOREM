@@ -26,40 +26,32 @@ The maximum power transfer theorem tells us that the load should be equal in mag
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
 
+<img width="834" height="329" alt="Screenshot 2025-10-23 233159" src="https://github.com/user-attachments/assets/3cfeb848-b40a-495b-8c8b-a2e8540a21be" />
 
 **MODEL GRAPH:**
 
-Resistance (RL) in ohm
+![EC2](https://github.com/user-attachments/assets/c1d391df-e16f-4a8f-8f16-7d88ccf927a9)
 
-**TABULATION:**
- 
-**TABLE (1) :FOR THEORETICAL CALCULATION: Rth =750 Ω**
+**THEORETICAL CALCULATION:**
 
-S.No	Load
-Resistance(RL) in ohm	Load
-Current (IL) in mA	Load
-voltage (VL) in volts	Load Power (PL) in watts
-1.				
-2.				
-3.				
-4.				
-5.				
+<img width="441" height="560" alt="Screenshot 2025-10-23 233503" src="https://github.com/user-attachments/assets/4e9f00c2-1414-4e18-98fc-62564df6da74" />
 
+<img width="491" height="564" alt="Screenshot 2025-10-23 233600" src="https://github.com/user-attachments/assets/70db35b9-15c1-41fd-aca0-2786deb1b384" />
 
-**TABLE (2): FOR PRACTICAL CALCULATION**
+<img width="681" height="332" alt="Screenshot 2025-10-23 233737" src="https://github.com/user-attachments/assets/8d3ee929-a823-424e-82ed-af00d04b998a" />
 
-S.No	Load
-Resistance(RL) in ohm	Load
-Current (IL) in amps	Load
-voltage (VL) in volts	Load Power (PL) in watts
-1.				
-2.				
-3.				
-4.				
-5.				
+<img width="745" height="389" alt="Screenshot 2025-10-23 233855" src="https://github.com/user-attachments/assets/5f1976b5-6b5b-4ab4-9ee3-cf51c3efc783" />
+
+**OBSERVATION TABLE:**
+
+<img width="737" height="555" alt="Screenshot 2025-10-23 233949" src="https://github.com/user-attachments/assets/44731c30-3594-4eb6-a706-d0c301738962" />
+
+<img width="634" height="493" alt="Screenshot 2025-10-23 234020" src="https://github.com/user-attachments/assets/780b44cc-c257-4d09-b963-4254b50b6843" />
 
 
-**MODEL CALCULATION:**
+**MARKS SPLITUP:**
+
+<img width="876" height="552" alt="Screenshot 2025-10-23 220425" src="https://github.com/user-attachments/assets/19134d41-9c45-47ee-8a79-ff0ea26e8179" />
 
 **PROCEDURE:**
 
